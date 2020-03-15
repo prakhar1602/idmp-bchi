@@ -62,4 +62,4 @@ Appendix
 
 List of Figures:
 
-![Trend of Health Problems over the Years](sProposal/year_hist.jpeg)
+![Trend of Health Problems over the Years](Proposal/year_hist.jpeg)

@@ -6,6 +6,8 @@ data %>%
   geom_histogram()
 
 data %>%
-  filter(Year==2017) 
+  ggplot() +
+  geom_histogram(mapping=aes(x=Year), binwidth=0.5, fill = "blue") + 
+  ylab("Count")
   
   

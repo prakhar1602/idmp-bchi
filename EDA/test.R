@@ -1,5 +1,5 @@
 library(tidyverse)
-bchi <- read_csv("../BCHI-dataset_2019-03-04.csv")
+bchi <- read_csv("~/Documents/College_NEU/SPRING-20/DS-5110/Project/idmp-bchi/BCHI-dataset_2019-03-04.csv")
 
 # Removing extra Rows that are not needed.
 
@@ -12,4 +12,6 @@ bchi <- bchi %>%
 bchi
 bchi_tidy <- bchi %>%
   spread(Indicator, Value)
-names(bchi_tidy)
+head(bchi_tidy)
+
+write.csv(bchi_tidy,"bchi_tidy.csv", row.names = FALSE)

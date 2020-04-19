@@ -53,7 +53,10 @@ trend of diseases over the years can be seen and some information from
 the years 2017 and 2018, which cannot be used as that data is not
 sufficient.
 
-<span>9</span> *Big Cities Health Coalition (BCHC)* 2010-2016,
+Citations
+=========
+
+<span>[9]</span> *Big Cities Health Coalition (BCHC)* 2010-2016,
 <https://www.bigcitieshealth.org/>. *Centers for Disease Control and
 Prevention*, <https://www.cdc.gov/brfss/index.html>
 
